@@ -15,13 +15,17 @@ The learning material has been designed for people who want to gain serious expo
     
 - [MIR review and software tools](https://colab.research.google.com/github/elenatheodora/CCRMA-MIR-2021/blob/main/NB1_MIR_Review_%26_Tools.ipynb)
 - [Loading datasets and working with them](https://colab.research.google.com/github/DL4MIR/dl4mir.github.io/blob/main/some_audio_datasets.ipynb)
-- Cross validation
-    - [Read here for an overview](https://machinelearningmastery.com/k-fold-cross-validation/)
 - Things to do before day 2
     - Review/learn [matrix multiplication](https://www.mathsisfun.com/algebra/matrix-multiplying.html)
     - Read about the [binary cross entropy](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)
 
 ## Day 2
+
+- Cross validation
+    - [Read here for an overview](https://machinelearningmastery.com/k-fold-cross-validation/)
+- Arco vs pizzicato classification (logistic regression)
+
+## Day 3
 
 ---
 
