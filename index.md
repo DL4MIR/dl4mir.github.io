@@ -13,7 +13,7 @@ The learning material has been designed for people who want to gain serious expo
 
 ## Day 1
     
-- [MIR review and software tools]()
+- [MIR review and software tools](https://colab.research.google.com/github/elenatheodora/CCRMA-MIR-2021/blob/main/NB1_MIR_Review_%26_Tools.ipynb)
 - [Loading datasets and working with them](https://colab.research.google.com/github/DL4MIR/dl4mir.github.io/blob/main/some_audio_datasets.ipynb)
 - Cross validation
     - [Read here for an overview](https://machinelearningmastery.com/k-fold-cross-validation/)
