@@ -24,6 +24,8 @@ The learning material has been designed for people who want to gain serious expo
 - Cross validation
     - [Read here for an overview](https://machinelearningmastery.com/k-fold-cross-validation/)
 - Arco vs pizzicato classification (logistic regression)
+- Things to do before day 3
+    - Read about the [softmax function](https://deepai.org/machine-learning-glossary-and-terms/softmax-layer)
 
 ## Day 3
 
