@@ -7,6 +7,8 @@
 
 This workshop covers the industry-standard methods to develop deep neural network architectures for digital audio. Throughout five intensive days of study, we will cover technical, mathematical, and practical principles that deep learning researchers use everyday in the real world.
 
+The learning material has been designed for people who want to gain serious exposure to deep neural networks applied to digital audio problems. It is assumed that participants have previous knowledge of linear algebra, differential calculus, and programming experience with python.
+
 ---
 
 ## Day 1
