@@ -23,11 +23,14 @@ The learning material has been designed for people who want to gain serious expo
 
 - Cross validation
     - [Read here for an overview](https://machinelearningmastery.com/k-fold-cross-validation/)
-- Arco vs pizzicato classification (logistic regression)
+- [Arco vs pizzicato classification](https://colab.research.google.com/github/DL4MIR/dl4mir.github.io/blob/main/arco_vs_pizzicato_classification.ipynb) (logistic regression)
 - Things to do before day 3
     - Read about the [softmax function](https://deepai.org/machine-learning-glossary-and-terms/softmax-layer)
 
 ## Day 3
+
+- Logistic regression with Tensorflow 2
+- [Hit song prediction](https://colab.research.google.com/github/elenatheodora/CCRMA-MIR-2021/blob/main/CCRMA_MIR_Hit_Prediction.ipynb)
 
 ---
 
