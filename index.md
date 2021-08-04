@@ -31,6 +31,8 @@ The learning material has been designed for people who want to gain serious expo
 
 - [Logistic regression with Tensorflow 2](https://colab.research.google.com/github/DL4MIR/dl4mir.github.io/blob/main/arco_vs_pizzicato_class_tf2.ipynb)
 - [Hit song prediction](https://colab.research.google.com/github/elenatheodora/CCRMA-MIR-2021/blob/main/CCRMA_MIR_Hit_Prediction.ipynb)
+- Things to do before day 4
+    - Read this tutorial on [Neural Networks and their building blocks](https://victorzhou.com/blog/intro-to-neural-networks/)
 
 ---
 
