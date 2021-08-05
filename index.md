@@ -68,6 +68,13 @@ The learning material has been designed for people who want to gain serious expo
     - jupyter
     - IPython 
 
+## How to get the small GTZAN version of the dataset that we are using in this workshop:
+1. install [`gdown` using pip](https://pypi.org/project/gdown/)
+2. run this command in your terminal `gdown --id 1wAjDwxWMSjrWz4-tbQyWIyqGLMVetWed`
+3. and unzip the file `unzip gtzan.zip`
+
+
+
 ---
 
 ## Instructors
