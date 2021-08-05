@@ -40,6 +40,7 @@ The learning material has been designed for people who want to gain serious expo
 - Things to read before day 5
     - [convolutional neural networks and their building blocks](https://cs231n.github.io/convolutional-networks/)
     - [Wavenet convolution](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
+    - [MusicVAE](https://magenta.tensorflow.org/music-vae)
 
 ## Day 5
 
