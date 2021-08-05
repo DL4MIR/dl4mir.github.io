@@ -37,6 +37,11 @@ The learning material has been designed for people who want to gain serious expo
 
 ## Day 4
 
+- Things to read before day 5
+    - [convolutional neural networks and their building blocks](https://cs231n.github.io/convolutional-networks/)
+    - [Wavenet convolution](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
+
+## Day 5
 
 ---
 
