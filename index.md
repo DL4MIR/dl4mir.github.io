@@ -55,6 +55,18 @@ The learning material has been designed for people who want to gain serious expo
 - Class will be recorded for people to watch asynchronously
 - Create a Google account. We will use Google Colaboratory
     - If you live in a place without access to google colab, try using a VPN, or create a github account and talk to the instructors for working alternatives
+- [Install pyenv in your Mac](https://www.liquidweb.com/kb/how-to-install-pyenv-on-ubuntu-18-04/)
+- [Install pyenv in Ubuntu (linux)](https://www.liquidweb.com/kb/how-to-install-pyenv-on-ubuntu-18-04/)
+- []()
+- Packages to install with pip (make sure you install the latest version for python 3.6 or greater):
+    - librosa
+    - tensorflow
+    - numpy
+    - matplotlib
+    - scipy
+    - sklearn
+    - jupyter
+    - IPython 
 
 ---
 
