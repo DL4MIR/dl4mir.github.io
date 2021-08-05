@@ -57,7 +57,7 @@ The learning material has been designed for people who want to gain serious expo
     - If you live in a place without access to google colab, try using a VPN, or create a github account and talk to the instructors for working alternatives
 - [Install pyenv in your Mac](https://www.liquidweb.com/kb/how-to-install-pyenv-on-ubuntu-18-04/)
 - [Install pyenv in Ubuntu (linux)](https://www.liquidweb.com/kb/how-to-install-pyenv-on-ubuntu-18-04/)
-- []()
+- [Install WSL if you use Windows](https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/2-enable-and-install) and follow the steps for Ubuntu (linux) above.
 - Packages to install with pip (make sure you install the latest version for python 3.6 or greater):
     - librosa
     - tensorflow
