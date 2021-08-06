@@ -44,7 +44,7 @@ The learning material has been designed for people who want to gain serious expo
     - [MusicVAE](https://magenta.tensorflow.org/music-vae)
 
 ## Day 5
-elenatheodora/CCRMA-MIR-2021/blob/main/MedleyDB/CCRMA_MIR_MedleyDB.ipynb
+
 - [MedleyDB](https://colab.research.google.com/github/elenatheodora/CCRMA-MIR-2021/blob/main/MedleyDB/CCRMA_MIR_MedleyDB.ipynb)
     - [github repo](https://github.com/elenatheodora/CCRMA-MIR-2021/tree/main/MedleyDB)
 - [Wavenet audio generation](https://colab.research.google.com/github/vincentherrmann/pytorch-wavenet/blob/master/WaveNet_demo.ipynb) (it's broken, but can we fix it?)
