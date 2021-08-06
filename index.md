@@ -46,7 +46,7 @@ The learning material has been designed for people who want to gain serious expo
 ## Day 5
 
 - [MedleyDB](https://colab.research.google.com/github/elenatheodora/CCRMA-MIR-2021/tree/main/MedleyDB/CCRMA_MIR_MedleyDB.ipynb)
-    - [github repo](https://colab.research.google.com/github/elenatheodora/CCRMA-MIR-2021/tree/main/MedleyDB)
+    - [github repo](https://github.com/elenatheodora/CCRMA-MIR-2021/tree/main/MedleyDB)
 - [Wavenet audio generation](https://colab.research.google.com/github/vincentherrmann/pytorch-wavenet/blob/master/WaveNet_demo.ipynb) (it's broken, but can we fix it?)
 
 
