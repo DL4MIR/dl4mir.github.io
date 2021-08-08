@@ -1,54 +1,39 @@
 <p align="txt-align: center;">
-  <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-9/99423691_3132529343476526_8281982353090281472_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=6e5ad9&_nc_ohc=D12Zb03fiMMAX86knWj&_nc_ht=scontent-lga3-2.xx&oh=ab2dd4b9a4a2e0542e087d91115e6d18&oe=612C7164" style="max-width: 100%; height: auto;" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fccrma.stanford.edu%2Fworkshops%2Fdeepmir-2017&psig=AOvVaw1HCDxCwfGt7LHBL2pCKaGD&ust=1628543330839000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiBxuiqovICFQAAAAAdAAAAABAD" style="max-width: 100%; height: auto;" />
 </p>
-<center> <h1> Deep Learning for Music Information Retrieval (part 1) </h1> </center>
+<center> <h1> Deep Learning for Music Information Retrieval (part 2) </h1> </center>
 
-## 2021 CCRMA workshop (Aug 2nd - Aug 6th)
+## 2021 CCRMA workshop (Aug 9th - Aug 13th)
 
-This workshop covers the industry-standard methods to develop deep neural network architectures for digital audio. Throughout five intensive days of study, we will cover technical, mathematical, and practical principles that deep learning researchers use everyday in the real world.
-
-The learning material has been designed for people who want to gain serious exposure to deep neural networks applied to digital audio problems. It is assumed that participants have previous knowledge of linear algebra, differential calculus, and programming experience with python.
+A survey of cutting-edge research in MIR using Deep Learning. Instructors will explain and demonstrate concepts in models that are used in cutting-edge industry and academic research. Students will tackle a real problem of their choice using deep learning models. Instructors will serve as advisors to students in the course on-demand. 
 
 ---
 
 ## Day 1
-    
-- [MIR review and software tools](https://colab.research.google.com/github/elenatheodora/CCRMA-MIR-2021/blob/main/NB1_MIR_Review_%26_Tools.ipynb)
-- [Loading datasets and working with them](https://colab.research.google.com/github/DL4MIR/dl4mir.github.io/blob/main/some_audio_datasets.ipynb)
-- Things to do before day 2
-    - Review/learn [matrix multiplication](https://www.mathsisfun.com/algebra/matrix-multiplying.html)
-    - Read about the [binary cross entropy](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)
+
+- CREPE (convolutional neural network)
+- Self-supervised learning
+- Students will:
+    - settle on a research topic for the week
+    - find the 5 most important papers on the topic
+    - Prepare a 5 min presentation to talk about these things on day 2
 
 ## Day 2
 
-- Cross validation
-    - [Read here for an overview](https://machinelearningmastery.com/k-fold-cross-validation/)
-- [Arco vs pizzicato classification](https://colab.research.google.com/github/DL4MIR/dl4mir.github.io/blob/main/arco_vs_pizzicato_classification.ipynb) (logistic regression)
-- Things to do before day 3
-    - Read about the [softmax function](https://deepai.org/machine-learning-glossary-and-terms/softmax-layer)
+- Deep Speech (recurrent neural network)
 
 ## Day 3
 
-- [Logistic regression with Tensorflow 2](https://colab.research.google.com/github/DL4MIR/dl4mir.github.io/blob/main/arco_vs_pizzicato_class_tf2.ipynb)
-- [Hit song prediction](https://colab.research.google.com/github/elenatheodora/CCRMA-MIR-2021/blob/main/CCRMA_MIR_Hit_Prediction.ipynb)
-    - supplemental reading: [NYT Songs of the Summer](https://www.nytimes.com/interactive/2018/08/09/opinion/do-songs-of-the-summer-sound-the-same.html?smid=pl-share)
-- Things to do before day 4
-    - Read this tutorial on [Neural Networks and their building blocks](https://victorzhou.com/blog/intro-to-neural-networks/)
+- SEGAN (generative adversarial network)
 
 ## Day 4
 
-- [Softmax in keras](https://colab.research.google.com/github/DL4MIR/dl4mir.github.io/blob/main/softmax_in_keras.ipynb)
-- Things to read before day 5
-    - [convolutional neural networks and their building blocks](https://cs231n.github.io/convolutional-networks/)
-    - [Wavenet convolution](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
-    - [MusicVAE](https://magenta.tensorflow.org/music-vae)
+- Audio transformers (attention mechanisms)
 
 ## Day 5
 
-- [MedleyDB](https://colab.research.google.com/github/elenatheodora/CCRMA-MIR-2021/blob/main/MedleyDB/CCRMA_MIR_MedleyDB.ipynb)
-    - [github repo](https://github.com/elenatheodora/CCRMA-MIR-2021/tree/main/MedleyDB)
-- [Wavenet audio generation](https://colab.research.google.com/github/vincentherrmann/pytorch-wavenet/blob/master/WaveNet_demo.ipynb) (it's broken, but can we fix it?)
-
+- GrFNN (neuro-inspired neural network)
+- Student presentations
 
 ---
 
@@ -74,12 +59,6 @@ The learning material has been designed for people who want to gain serious expo
         - jupyter
         - IPython 
 
-## How to get the small version of the GTZAN dataset that we are using in this workshop:
-1. install [`gdown` using pip](https://pypi.org/project/gdown/)
-2. run this command in your terminal `gdown --id 1wAjDwxWMSjrWz4-tbQyWIyqGLMVetWed`
-3. and unzip the file `unzip gtzan.zip`
-
-
 ---
 
 ## Instructors
@@ -91,7 +70,3 @@ email: egeorgie [at] ccrma.stanford.edu
 Iran R. Roman
 
 email: iran [at] ccrma.stanford.edu
-
-
-Hello Davor
-
