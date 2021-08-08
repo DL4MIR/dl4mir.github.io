@@ -3,7 +3,7 @@ import sys
 
 filename = sys.argv[1]
 
-header = """| [Home](https://fl4mir.github.io) |\n""" 
+header = """| [Home](https://dfl4mir.github.io) |\n""" 
 
 with open(filename+'.md', 'r') as f:
     text = f.read()
