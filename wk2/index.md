@@ -1,5 +1,5 @@
 <p align="txt-align: center;">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fccrma.stanford.edu%2Fworkshops%2Fdeepmir-2017&psig=AOvVaw1HCDxCwfGt7LHBL2pCKaGD&ust=1628543330839000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiBxuiqovICFQAAAAAdAAAAABAD" style="max-width: 100%; height: auto;" />
+  <img src="https://ccrma.stanford.edu/sites/default/files/user/iran/home.png" style="max-width: 100%; height: auto;" />
 </p>
 <center> <h1> Deep Learning for Music Information Retrieval (part 2) </h1> </center>
 
