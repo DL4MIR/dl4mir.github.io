@@ -12,6 +12,16 @@ A survey of cutting-edge research in MIR using Deep Learning. Instructors will e
 ## Day 1
 
 - CREPE (convolutional neural network)
+    ```
+        @inproceedings{kim2018crepe,
+  title={Crepe: A convolutional representation for pitch estimation},
+  author={Kim, Jong Wook and Salamon, Justin and Li, Peter and Bello, Juan Pablo},
+  booktitle={2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={161--165},
+  year={2018},
+  organization={IEEE}
+}
+    ```
 - Self-supervised learning
 - Students will:
     - settle on a research topic for the week
