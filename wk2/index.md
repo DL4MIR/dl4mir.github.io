@@ -12,21 +12,13 @@ A survey of cutting-edge research in MIR using Deep Learning. Instructors will e
 ## Day 1
 
 - CREPE (convolutional neural network)
-    ```
-        @inproceedings{kim2018crepe,
-  title={Crepe: A convolutional representation for pitch estimation},
-  author={Kim, Jong Wook and Salamon, Justin and Li, Peter and Bello, Juan Pablo},
-  booktitle={2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={161--165},
-  year={2018},
-  organization={IEEE}
-}
-    ```
+    - Kim JW, Salamon J, Li P, Bello JP. Crepe: A convolutional representation for pitch estimation. In2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2018 Apr 15 (pp. 161-165). IEEE.
 - Self-supervised learning
+    - Arandjelovic R, Zisserman A. Objects that sound. InProceedings of the European conference on computer vision (ECCV) 2018 (pp. 435-451).
 - Students will:
     - settle on a research topic for the week
     - find the 5 most important papers on the topic
-    - Prepare a 5 min presentation to talk about these things on day 2
+    - prepare a 5 min presentation on your research topic and literature review for day 2
 
 ## Day 2
 
