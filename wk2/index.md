@@ -28,6 +28,7 @@ A survey of cutting-edge research in MIR using Deep Learning. Instructors will e
     - `Wager S, Tzanetakis G, Wang CI, Kim M. Deep Autotuner: A Pitch Correcting Network for Singing Performances. InICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020 May 4 (pp. 246-250). IEEE.`
 - Deep Speech (recurrent neural network)
     - `Hannun A, Case C, Casper J, Catanzaro B, Diamos G, Elsen E, Prenger R, Satheesh S, Sengupta S, Coates A, Ng AY. Deep speech: Scaling up end-to-end speech recognition. arXiv preprint arXiv:1412.5567. 2014 Dec 17.`
+    - [How to install and documentation](https://deepspeech.readthedocs.io/en/r0.9/?badge=latest)
 
 ## Day 3
 
