@@ -42,7 +42,7 @@ A survey of cutting-edge research in MIR using Deep Learning. Instructors will e
 ## Day 5
 
 - GrFNN (neuro-inspired neural network with a dynamical system)
-    `Large EW, Herrera JA, Velasco MJ. Neural networks for beat perception in musical rhythm. Frontiers in systems neuroscience. 2015 Nov 25;9:159.`
+    - `Large EW, Herrera JA, Velasco MJ. Neural networks for beat perception in musical rhythm. Frontiers in systems neuroscience. 2015 Nov 25;9:159.`
 - Student presentations
 
 ---
