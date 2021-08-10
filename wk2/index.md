@@ -22,6 +22,8 @@ A survey of cutting-edge research in MIR using Deep Learning. Instructors will e
 
 ## Day 2
 
+- CNN with "auxiliary features"
+    - `Lostanlen V, Salamon J, Farnsworth A, Kelling S, Bello JP. Robust sound event detection in bioacoustic sensor networks. PloS one. 2019 Oct 24;14(10):e0214168.`
 - Deep Autotuner (convolutional neural network)
     - `Wager S, Tzanetakis G, Wang CI, Kim M. Deep Autotuner: A Pitch Correcting Network for Singing Performances. InICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020 May 4 (pp. 246-250). IEEE.`
 - Deep Speech (recurrent neural network)
