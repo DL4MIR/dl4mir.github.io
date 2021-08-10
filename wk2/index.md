@@ -22,19 +22,25 @@ A survey of cutting-edge research in MIR using Deep Learning. Instructors will e
 
 ## Day 2
 
+- Deep Autotuner (convolutional neural network)
+    - `Wager S, Tzanetakis G, Wang CI, Kim M. Deep Autotuner: A Pitch Correcting Network for Singing Performances. InICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020 May 4 (pp. 246-250). IEEE.`
 - Deep Speech (recurrent neural network)
+    - `Hannun A, Case C, Casper J, Catanzaro B, Diamos G, Elsen E, Prenger R, Satheesh S, Sengupta S, Coates A, Ng AY. Deep speech: Scaling up end-to-end speech recognition. arXiv preprint arXiv:1412.5567. 2014 Dec 17.`
 
 ## Day 3
 
 - SEGAN (generative adversarial network)
+    - `Pascual S, Bonafonte A, Serra J. SEGAN: Speech enhancement generative adversarial network. arXiv preprint arXiv:1703.09452. 2017 Mar 28.`
 
 ## Day 4
 
 - Audio transformers (attention mechanisms)
+    - `Dong L, Xu S, Xu B. Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition. In2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2018 Apr 15 (pp. 5884-5888). IEEE.`
 
 ## Day 5
 
-- GrFNN (neuro-inspired neural network)
+- GrFNN (neuro-inspired neural network with a dynamical system)
+    `Large EW, Herrera JA, Velasco MJ. Neural networks for beat perception in musical rhythm. Frontiers in systems neuroscience. 2015 Nov 25;9:159.`
 - Student presentations
 
 ---
