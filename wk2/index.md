@@ -32,6 +32,8 @@ A survey of cutting-edge research in MIR using Deep Learning. Instructors will e
 
 ## Day 3
 
+- Singing voice separation (U-Net)
+    - `Jansson A, Humphrey E, Montecchio N, Bittner R, Kumar A, Weyde T. Singing voice separation with deep u-net convolutional networks.`
 - SEGAN (generative adversarial network)
     - `Pascual S, Bonafonte A, Serra J. SEGAN: Speech enhancement generative adversarial network. arXiv preprint arXiv:1703.09452. 2017 Mar 28.`
 
