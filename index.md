@@ -39,7 +39,7 @@ Or make an online search for other materials covering these concepts.
 
 ## Course logistics
 
-The course runs from August 8th to 19th (2022) and meets daily from 9AM to 3PM ([Pacific Daylight Time](https://www.timeanddate.com/time/zones/pt)) in person at CCRMA and over Zoom. 
+The course runs from August 8th to 19th (2022) and meets daily from 10AM to 5PM ([Pacific Daylight Time](https://www.timeanddate.com/time/zones/pt)) in person at CCRMA and over Zoom. 
 
 Please [register](https://www.eventbrite.com/e/music-information-retrieval-introduction-deep-learning-i-ii-tickets-319062092307) for the course if you would like to attend either in-person or online. The course will welcome all students who can meet the course prerequisites. All course materials are in English thus strong knowledge of English reading, writting, and speaking is assumed.
 
@@ -52,4 +52,4 @@ You may also find a past version of the course's sub-reddit [deeplearningaudio](
 
 ___
 
-&copy; [Iran R. Roman](https://iranroman.github.io) & Camille Noufi 2022
+&copy; [Iran R. Roman](https://iranroman.github.io) & [Camille Noufi](http://camillenoufi.com) 2022
