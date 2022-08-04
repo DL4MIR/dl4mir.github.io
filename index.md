@@ -2,7 +2,6 @@
 
 <!-- [Spanish](https://dl4genaudio-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en-US) | -->
 
-# Deep Learning for Music Information Retrieval: Generative Models
 <img src="assets/home.jpg" alt="drawing" width="1000"/>
 
 Website for the graduate-level Deep Learning for Music Information Retrieval I & II workshops covering the deep learning theory, literature, and practice applied to digital audio. More specifically, the course covers generative models (including autoencoders).
