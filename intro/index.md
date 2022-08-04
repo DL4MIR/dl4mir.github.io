@@ -41,7 +41,7 @@
 
 * After proper digitization, we end up with a "time-series" signal with an associated sampling rate, bit depth, and computer number format.
 
-* Stop and think: is the dimensionality of digital audio small or big? What are benefits and pitfalls that result from this? Is digital audio data dense or sparse?
+* Is the dimensionality of digital audio small or big? What are benefits and pitfalls that result from this? Is digital audio data dense or sparse?
 
 ## The Discrete Fourier Transform (DFT)
 
@@ -61,11 +61,10 @@
 
 * Figure 1.2 shows a spectrogram. What is the relationship between a spectrogram and the DFT? (and what about the FFT?)
 
-* Stop and think: does the DFT create or solve issues associated with the dimensionality of digital audio?
+* Does the DFT create or solve issues associated with the dimensionality of digital audio?
 
-# [Homework 1: Digital audio and the DFT](https://colab.research.google.com/github/dl4genaudio/assignments/blob/main/audio_fundamentals_and_the_dft.ipynb)
+# [Homework 1: Digital audio and the DFT](https://colab.research.google.com/github/dl4mir/assignments/blob/main/audio_fundamentals_and_the_dft.ipynb)
 
-due Feb 8th at 11:59PM ([Eastern Standard Time](https://www.timeanddate.com/time/zones/et))
 
 * More things to do:
     * Find and read research papers that align with your interests in the proceedings of conferneces such as [ISMIR 2021](https://ismir2021.ismir.net/papers/), [CogMIR 2019](http://www.cogmir.org/wp-content/uploads/2019/08/CogMIR-2019-Program-Schedule.pdf), [ICASSP 2021](https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/Papers/AcceptedPapers.html), [DAFX 2021](https://dafx2020.mdw.ac.at/proceedings/Proceedings_of_DAFx20in21.html), or do a search on google scholar for keywords that better match your interests within the scope of this course. 
