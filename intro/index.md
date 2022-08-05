@@ -1,4 +1,4 @@
-| [Homepage](https://dl4genaudio.github.io) | [Course content](https://dl4genaudio.github.io/#course-content) |
+| [Homepage](https://dl4mir.github.io) | [Course content](https://dl4mir.github.io/#course-content) |
 
 ## What can I expect from this course?
 
@@ -63,7 +63,7 @@
 
 * Does the DFT create or solve issues associated with the dimensionality of digital audio?
 
-# [Homework 1: Digital audio and the DFT](https://colab.research.google.com/github/dl4mir/assignments/blob/main/audio_fundamentals_and_the_dft.ipynb)
+# [Digital audio and the DFT](https://colab.research.google.com/github/dl4mir/assignments/blob/main/audio_fundamentals_and_the_dft.ipynb)
 
 
 * More things to do:

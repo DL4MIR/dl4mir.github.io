@@ -1,4 +1,4 @@
-| [Homepage](https://dl4genaudio.github.io) | [Course content](https://dl4genaudio.github.io/#course-content) | [Spanish](https://dl4genaudio-github-io.translate.goog/features/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en-US&_x_tr_pto=wapp) |
+| [Homepage](https://dl4mir.github.io) | [Course content](https://dl4mir.github.io/#course-content) |
 
 # Audio Features and Musical Objects
 
@@ -54,8 +54,8 @@ The figure plots a single feature (the spectral centroid), extracted from signal
 * Why did we say that a real-life object (such as a digitized audio signal) can be described by an infinite number of features?
 * Which other audio or time-series features do you know about and how do they work?
 
-# [Homework 2a: More DFT](https://colab.research.google.com/github/dl4genaudio/assignments/blob/main/more_dft.ipynb)
-# [Homework 2: Audio features](https://colab.research.google.com/github/dl4genaudio/assignments/blob/main/audio_features.ipynb)
+# [More DFT](https://colab.research.google.com/github/dl4mir/assignments/blob/main/more_dft.ipynb)
+# [Audio features](https://colab.research.google.com/github/dl4mir/assignments/blob/main/audio_features.ipynb)
 
 due Feb 15th at 11:59PM ([Eastern Standard Time](https://www.timeanddate.com/time/zones/et))
 
@@ -64,4 +64,5 @@ due Feb 15th at 11:59PM ([Eastern Standard Time](https://www.timeanddate.com/tim
 
 ___
 
-&copy; [Iran R. Roman](https://iranroman.github.io) 2022
+&copy; [Iran R. Roman](https://iranroman.github.io) & [Camille Noufi](http://camillenoufi.com) 2022
+

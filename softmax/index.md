@@ -1,4 +1,4 @@
-| [Homepage](https://dl4genaudio.github.io) | [Course content](https://dl4genaudio.github.io/#course-content) | [Spanish](https://dl4genaudio-github-io.translate.goog/softmax/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp) |
+| [Homepage](https://dl4mir.github.io) | [Course content](https://dl4mir.github.io/#course-content) |
 
 # Softmax classification
 
@@ -49,11 +49,7 @@
 
 * There are [other types of regularizaton](https://en.wikipedia.org/wiki/Regularization_(mathematics)) though.
 
-# [Homework 6: softmax](https://colab.research.google.com/github/dl4genaudio/assignments/blob/main/softmax.ipynb)
-
-Due Mar 15 at 11:59PM ([Eastern Standard Time](https://www.timeanddate.com/time/zones/et))
-
-When you are done, you MUST post a picture on our [course subreddit](https://www.reddit.com/r/deeplearningaudio/) with the performance and confusion matrix you got on the evaluation set ([example](https://www.reddit.com/r/deeplearningaudio/comments/t9ysap/this_is_the_model_performance_that_you_should/))
+# [Softmax](https://colab.research.google.com/github/dl4mir/assignments/blob/main/softmax.ipynb)
 
 ## Raw audio standarization
 
@@ -84,5 +80,5 @@ When you are done, you MUST post a picture on our [course subreddit](https://www
 
 ___
 
-&copy; [Iran R. Roman](https://iranroman.github.io) 2022
+&copy; [Iran R. Roman](https://iranroman.github.io) & [Camille Noufi](http://camillenoufi.com) 2022
 

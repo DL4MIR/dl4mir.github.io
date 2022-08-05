@@ -1,4 +1,4 @@
-| [Homepage](https://dl4genaudio.github.io) | [Course content](https://dl4genaudio.github.io/#course-content) | [Spanish](https://dl4genaudio-github-io.translate.goog/lg_ce/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp) |
+| [Homepage](https://dl4mir.github.io) | [Course content](https://dl4mir.github.io/#course-content) |
 
 # Logistic regression, binary cross-entropy, and error metrics
 
@@ -54,10 +54,8 @@
 
 * Error metrics are essential to interpret how our model performs on the different data splits of cross-validation.
 
-# [Homework 5: Optimizing and evaluating logistic regression](https://colab.research.google.com/github/dl4genaudio/assignments/blob/main/logistic_regression.ipynb)
-
-Due Mar 8th at 11:59PM ([Eastern Standard Time](https://www.timeanddate.com/time/zones/et))
+# [Optimizing and evaluating logistic regression](https://colab.research.google.com/github/dl4mir/assignments/blob/main/logistic_regression.ipynb)
 
 ___
 
-&copy; [Iran R. Roman](https://iranroman.github.io) 2022
+&copy; [Iran R. Roman](https://iranroman.github.io) & [Camille Noufi](http://camillenoufi.com) 2022

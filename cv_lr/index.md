@@ -1,4 +1,4 @@
-| [Homepage](https://dl4genaudio.github.io) | [Course content](https://dl4genaudio.github.io/#course-content) | [Spanish](https://dl4genaudio-github-io.translate.goog/cv_lr/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp) |
+| [Homepage](https://dl4mir.github.io) | [Course content](https://dl4mir.github.io/#course-content) |
 
 # Cross validation and linear regression
 
@@ -23,7 +23,7 @@
 
 * Note: some datasets have already been split into testing and development sets, and the development set can also be already split into fixed training and validation sub-sets. In this situation it is recommended to follow the suggested training and validation data splitting intead of creating training and validation folds. 
  
-* Stop and think: why is all of this necessary?
+* Why is all of this necessary?
 
 ## Linear regression
 
@@ -40,10 +40,8 @@
 
 * We can use a simple method like gradient descent [(review if necessary)](https://towardsdatascience.com/linear-regression-using-gradient-descent-97a6c8700931) to find the optimal <img src="https://render.githubusercontent.com/render/math?math=w"> and <img src="https://render.githubusercontent.com/render/math?math=b"> so that <img src="https://render.githubusercontent.com/render/math?math=J"> is as low as possible.
 
-# [Homework 4: Cross-validation and linear regression](https://colab.research.google.com/github/dl4genaudio/assignments/blob/main/cv_and_lr.ipynb)
-
-due Mar 1st at 11:59PM ([Eastern Standard Time](https://www.timeanddate.com/time/zones/et))
+# [Cross-validation and linear regression](https://colab.research.google.com/github/dl4mir/assignments/blob/main/cv_and_lr.ipynb)
 
 ___
 
-&copy; [Iran R. Roman](https://iranroman.github.io) 2022
+&copy; [Iran R. Roman](https://iranroman.github.io) & [Camille Noufi](http://camillenoufi.com) 2022

@@ -1,6 +1,6 @@
 | [Homepage](https://camillenoufi.github.io/dl4mir/) | [Course content](https://camillenoufi.github.io/dl4mir/#course-content) | 
 
-<!-- [Spanish](https://dl4genaudio-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en-US) | -->
+<!-- [Spanish](https://dl4mir-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en-US) | -->
 
 <img src="assets/home.jpg" alt="drawing" width="1000"/>
 

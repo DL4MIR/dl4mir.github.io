@@ -1,4 +1,4 @@
-| [Homepage](https://dl4genaudio.github.io) | [Course content](https://dl4genaudio.github.io/#course-content) | [Spanish](https://dl4genaudio-github-io.translate.goog/cnn/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp) |
+| [Homepage](https://dl4mir.github.io) | [Course content](https://dl4mir.github.io/#course-content) |
 
 # Convolutional Neural Networks (CNNs)
 
@@ -50,86 +50,7 @@
 
 ## The Adam optimization algorithm
 
-
-# Homework 8a: continue working with your assigned paper from last class
-
-* Due Mar 23. In your reddit post, answer:
-    * What research question are they trying to answer?
-    * What dataset did they use and why is this a good/bad selection?
-    * How did they split the data into training, validation, and test sets?
-* Due Mar 24. In your reddit post, answer:
-    * Which different experiments did they carry out to showcase what their model does?
-    * How did they train their model?
-        * What optimizer did they use?
-        * What loss function did they use?
-        * What metric did they use to measure model performance?
-    * What baseline method/model are they comparing against?
-* Due Mar 25. In your reddit post, answer
-    * What results did they obtain with their model and how does this compare against the baseline?
-    * What would you do to:
-        * Develop an even better model
-        * Use their model in an applied setting
-    * What criticisms do you have about the paper?
-* Due Mar 28. In your reddit post.
-    * Link to a slideshow (use 10-15 slides) where you use all the graphics and text you need to present this paper to your classmates.
-* Due Mar 30 during class: deliver a high-quality "journal-club" presentation of the paper
-    
-        
-# Homework 8b (due March 29)
-
-* Next class we will have a guest speaker
-    * [Jessica Torres-Soto](https://jntorres.github.io) (Stanford PhD Alumna) will talk to us about her research.
-    * She will focus her presentation on this paper: [Multi-task deep learning for cardiac rhythm detection in wearable devices](https://www.nature.com/articles/s41746-020-00320-4)
-    * Read Jessica's paper in detail, but focus on the part that covers the model architecture and results. 
-    * On our course subreddit, there is a thread to discuss Jessica's paper. 
-    * You must post two questions you have after reading the paper. 
-    * Do not repeat questions that have already been asked.
-    * The sooner you post, the less likely it will be that somebody else already asked your question. 
-    * You must also try to answer at least one of the questions asked by your peers.
-
-# [Homework 9a: Convolutional neural network](https://colab.research.google.com/github/dl4genaudio/assignments/blob/main/cnn.ipynb)
-
-Due April 5th at 11:59PM ([Eastern Standard Time](https://www.timeanddate.com/time/zones/et))
-
-# Homework 9b (due April 5)
-
-* On April 6, we will have a guest speaker
-    * [Hugo Flores](https://hugofloresgarcia.github.io/) (Northwestern University PhD candidate) will talk to us about his research.
-    * He will focus his presentation on these two papers: 
-        * [Deep learning tools for audacity: helping researchers expand the artist’s toolkit](https://arxiv.org/pdf/2110.13323.pdf)
-        * [Leveraging hierarchical structures for few-shot musical instrument recognition](https://arxiv.org/pdf/2107.07029.pdf)
-    * Read one (or both) of Hugo's papers in detail, but focus on the part that covers the model architecture and results. 
-    * On our course subreddit, there is a thread to discuss Hugo's papers. 
-    * You must post two questions you have after reading one (or both) of the papers. 
-    * Do not repeat questions that have already been asked.
-    * The sooner you post, the less likely it will be that somebody else already asked your question. 
-    * You must also try to answer at least one of the questions asked by your peers.
-
-# Homework 10a (due April 6)
-
-Submit a final project proposal where you address ALL of the following questions with as much detail as possible:
-
-* What research question are you trying to answer?
-* Who else has asked a similar research question? 
-    * List at least 5 relevant papers you have read
-    * Give a brief summary of each
-* What dataset(s) will you use and why is this a good/bad selection?
-    * How will you split your data for training?
-        * include number of datapoints in each split 
-        * which features present in the data will you use?
-        * what labels present in the data will you use?
-* What model architecture will you use and why?
-    * What are the inputs?
-    * What are the outputs?
-* Which different experiments will you carry out to showcase what your model does?
-* How will you train your model?
-    * What optimizer will you use?
-    * What loss function will you use?
-    * What metric will you use to measure model performance?
-* What baseline method/model will you compare your model against?
-* What results do you expect to get?
-    * Include mock figures showing how you will visualize the results that you expect.
-    * Include at least one figure from another paper that you will reproduce using your model.
+# [Convolutional neural network](https://colab.research.google.com/github/dl4mir/assignments/blob/main/cnn.ipynb)
 
 ___
 
