@@ -1,4 +1,4 @@
-| [Homepage](https://camillenoufi.github.io/dl4mir/) | [Course content](https://camillenoufi.github.io/dl4mir/#course-content) | 
+| [Homepage](https://dl4mir.github.io) | [Course content](https://dl4mir.github.io/#course-content) | 
 
 <!-- [Spanish](https://dl4mir-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en-US) | -->
 
